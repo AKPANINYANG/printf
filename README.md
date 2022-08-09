@@ -1,1 +1,1 @@
-This Repository contains code from the Pair Programming Team Task I engaged in with Peer Victor Tahiru
+This Repository contains code from the Pair Programming Team Task of which Mr Emmanuel Akpaninyang collaborated with Mr Victor Tahiru

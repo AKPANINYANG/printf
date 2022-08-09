@@ -14,7 +14,7 @@ int print_hex(unsigned int n, unsigned int c)
 	char diff;
 	int count;
 
-	m = 268435456; /* (16 ^ 7) */
+	m = 268435456; /* ( 16 ^ 7 ) */
 	if (c)
 		diff = 'A' - ':';
 	else
